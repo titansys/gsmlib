@@ -1,0 +1,55 @@
+{
+  "name": "serialport-gsm",
+  "version": "4.0.1",
+  "description": "Serialport implementation for GSM commands (send text/flash messages, read, etc.)",
+  "main": "lib/",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "node-pdu": "^1.0.15",
+    "serialport": "^10.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "scripts": {
+    "start": "nodemon test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zabsalahid/serialport-gsm.git"
+  },
+  "keywords": [
+    "gsm",
+    "at",
+    "commands",
+    "modem",
+    "sms",
+    "iot",
+    "serial port",
+    "serialport",
+    "serial",
+    "com",
+    "port",
+    "flash message",
+    "class 0"
+  ],
+  "author": "Zabdiel G. Salahid <zabsalahid@gmail.com> (https://github.com/zabsalahid)",
+  "contributors": [
+    {
+      "name": "Paolo Brainard M. Reyes",
+      "email": "xreyes.paolox@gmail.com",
+      "url": "http://360logix.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zabsalahid/serialport-gsm/issues"
+  },
+  "homepage": "https://github.com/zabsalahid/serialport-gsm#readme"
+}
