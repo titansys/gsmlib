@@ -31,9 +31,6 @@ Modified version of serialport-gsm by Titan Systems
         * [onNewMessageIndicator](#onnewmessage-indicator)
         * [onNewIncomingCall](#onnewincomingcall)
         * [onMemoryFull](#onmemoryfull)
-    * [SerialPort](#serialport)
-* [Contributors](#contributors)
-* [License](#license)
 
 ***
 ## Installation Instructions
