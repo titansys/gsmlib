@@ -4,7 +4,6 @@ Modified version of serialport-gsm by Titan Systems
 ***
 ## Table of Contents
 
-* [Installation](#installation-instructions)
 * [Usage](#usage)
     * [Methods](#methods)
         * [List Ports](#list-available-ports)
@@ -33,16 +32,6 @@ Modified version of serialport-gsm by Titan Systems
         * [onMemoryFull](#onmemoryfull)
 
 ***
-## Installation Instructions
-
-```terminal
-npm install serialport-gsm
-```
- 
-## Example
-
-A full example can be found in the example directory.
-
 ## Usage
 
 ### Methods
